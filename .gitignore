@@ -1,0 +1,8 @@
+/bin/
+/build/
+/output/
+/.gradle/
+/.settings/
+/.classpath
+/.project
+/input/*.html
