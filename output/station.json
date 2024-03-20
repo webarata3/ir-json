@@ -1,0 +1,186 @@
+[
+  {
+    "stationId": 0,
+    "stationName": "敦賀",
+    "east": null,
+    "west": null,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "stationId": 1,
+    "stationName": "福井",
+    "east": null,
+    "west":null,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "stationId": 2,
+    "stationName": "大聖寺",
+    "east": "小松・金沢",
+    "west": "福井",
+    "latitude": 36.3006217,
+    "longitude": 136.3116303
+  },
+  {
+    "stationId": 3,
+    "stationName": "加賀温泉",
+    "east": "小松・金沢",
+    "west": "大聖寺・福井",
+    "latitude": 36.3200138,
+    "longitude": 136.3475936
+  },
+  {
+    "stationId": 4,
+    "stationName": "動橋",
+    "east": "小松・金沢",
+    "west": "大聖寺・福井",
+    "latitude": 36.3282652,
+    "longitude": 136.3804955
+  },
+  {
+    "stationId": 5,
+    "stationName": "粟津",
+    "east": "小松・金沢",
+    "west": "大聖寺・福井",
+    "latitude": 36.3557982,
+    "longitude": 136.4220878
+  },
+  {
+    "stationId": 6,
+    "stationName": "小松",
+    "east": "金沢",
+    "west": "大聖寺・福井",
+    "latitude": 36.4022148,
+    "longitude": 136.4499216
+  },
+  {
+    "stationId": 7,
+    "stationName": "明峰",
+    "east": "金沢",
+    "west": "大聖寺・福井",
+    "latitude": 36.4247238,
+    "longitude": 136.4605243
+  },
+  {
+    "stationId": 8,
+    "stationName": "能美根上",
+    "east": "金沢",
+    "west": "大聖寺・福井",
+    "latitude": 36.4521189,
+    "longitude": 136.456959
+  },
+  {
+    "stationId": 9,
+    "stationName": "小舞子",
+    "east": "金沢",
+    "west": "大聖寺・福井",
+    "latitude": 36.4762578,
+    "longitude": 136.4724399
+  },
+  {
+    "stationId": 10,
+    "stationName": "美川",
+    "east": "金沢",
+    "west": "大聖寺・福井",
+    "latitude": 36.4861873,
+    "longitude": 136.4863577
+  },
+  {
+    "stationId": 11,
+    "stationName": "加賀笠間",
+    "east": "金沢",
+    "west": "大聖寺・福井",
+    "latitude": 36.5030893,
+    "longitude": 136.5249342
+  },
+  {
+    "stationId": 12,
+    "stationName": "西松任",
+    "east": "金沢",
+    "west": "大聖寺・福井",
+    "latitude": 36.5178166,
+    "longitude": 136.5463619
+  },
+  {
+    "stationId": 13,
+    "stationName": "松任",
+    "east": "金沢",
+    "west": "大聖寺・福井",
+    "latitude": 36.5268098,
+    "longitude": 136.5637909
+  },
+  {
+    "stationId": 14,
+    "stationName": "野々市",
+    "east": "金沢",
+    "west": "大聖寺・福井",
+    "latitude": 36.5419437,
+    "longitude": 136.5955701
+  },
+  {
+    "stationId": 15,
+    "stationName": "西金沢",
+    "east": "金沢",
+    "west": "大聖寺・福井",
+    "latitude": 36.5532262,
+    "longitude": 136.6187157
+  },
+  {
+    "stationId": 16,
+    "stationName": "金沢",
+    "east": "七尾・富山",
+    "west": "小松・福井",
+    "latitude": 36.5781159,
+    "longitude": 136.6455431
+  },
+  {
+    "stationId": 17,
+    "stationName": "東金沢",
+    "east": "七尾・富山",
+    "west": "小松・福井",
+    "latitude": 36.5935546,
+    "longitude": 136.667112
+  },
+  {
+    "stationId": 18,
+    "stationName": "森本",
+    "east": "七尾・富山",
+    "west": "小松・福井",
+    "latitude": 36.6121641,
+    "longitude": 136.6868878
+  },
+  {
+    "stationId": 19,
+    "stationName": "津幡",
+    "east": "七尾・富山",
+    "west": "小松・福井",
+    "latitude": 36.6576058,
+    "longitude": 136.7276726
+  },
+  {
+    "stationId": 20,
+    "stationName": "倶利伽羅",
+    "east": "富山",
+    "west": "小松・福井",
+    "latitude": 36.6674432,
+    "longitude": 136.7692676
+  },
+  {
+    "stationId": 21,
+    "stationName": "七尾",
+    "east": "",
+    "west": "",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "stationId": 22,
+    "stationName": "富山",
+    "east": null,
+    "west": "",
+    "latitude": null,
+    "longitude": null
+  }
+]
